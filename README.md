@@ -1,6 +1,6 @@
 # Block 27 React Forms
 
-View my deployed site [here!](jaybrdy-reactforms.netlify.app)
+View my deployed site [here!](https://jaybrdy-reactforms.netlify.app/)
 
 # React + Vite
 
